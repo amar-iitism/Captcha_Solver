@@ -1,2 +1,2 @@
 
-This folder to store data
+This folder to store Hackathon data
