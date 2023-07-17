@@ -1,7 +1,6 @@
 # Captcha_Solver   
   
 solver -> to captcha solve  
-  |  
   | -- datasets -> To create a dataset loader  
   | -- lists -> dataset files list  
   | -- network -> ResNet Model  
