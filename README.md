@@ -16,4 +16,5 @@ Data_Generation_GAN  -> to generate new datasets
   | -- network -> Generator and Discriminator model  
   | -- test.py -> To test the model  
   | -- train.py -> To Train the model  
+  new changes
   
